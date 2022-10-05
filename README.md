@@ -1,0 +1,1 @@
+Little project to manipulate plant database/requests and image uploading
